@@ -31,12 +31,19 @@ Vercel → Deploy e hospedagem
 projeto-rbltransfer
 │
 ├── index.html
+
 ├── style.css
+
 ├── obrigado.html
+
 ├── favicon.ico / favicon.png
+
 ├── logorbl.jpg
+
 ├── carroexecutivo.jpg
+
 ├── interno.jpg
+
 Estrutura do HTML
 
 O HTML foi organizado em seções bem definidas para melhorar a leitura e manutenção:
@@ -91,15 +98,15 @@ Estilização (CSS)
 
 O CSS foi desenvolvido com foco em:
 
-✔ Layout Responsivo
+- Layout Responsivo
 Uso de flexbox
 Media queries para dispositivos móveis
 Menu adaptado para mobile
-✔ Identidade Visual
+- Identidade Visual
 Fundo escuro (#000)
 Destaques em vermelho (#e43535)
 Botões chamativos (WhatsApp verde)
-✔ Componentes Importantes
+- Componentes Importantes
 Header dinâmico
 .topo.scrolled {
     background: #000;
