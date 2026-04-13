@@ -125,8 +125,8 @@ window.addEventListener("scroll", function() {
     header.classList.toggle("scrolled", window.scrollY > 50);
 });
 
-✔ Melhora a experiência do usuário
-✔ Deixa o site mais moderno
+- Melhora a experiência do usuário 
+- Deixa o site mais moderno
 
 2. Menu Mobile
 toggle.addEventListener("click", () => {
