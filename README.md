@@ -184,7 +184,9 @@ Vantagens:
 - Google Analytics
 
 Autores:
-- Desenvolvido por, Ana Cavalcanti Lopes e Rafel Gedeão Eduardo de Santana 
+- Desenvolvido por:
+-  Ana Cavalcanti Lopes
+-  Rafael Gedeão Eduardo de Santana 
 
 📞 Contato
 WhatsApp: (11) 96301-3579
